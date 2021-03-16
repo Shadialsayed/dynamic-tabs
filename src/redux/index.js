@@ -1,0 +1,1 @@
+export {updateSlider, addNewTabContent} from './content/contentAction'
